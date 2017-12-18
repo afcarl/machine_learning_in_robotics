@@ -15,7 +15,7 @@ Content Assignment 1:
 - Handwritten digits classification using Baysian classifier
 - Human motion clustering
 
-Conten Assignment 2:
+Content Assignment 2:
 - Learning dataset using Gaussian mixture model
 - Human gesture recognition using hidden Markov model
 - Learning gait pattern for a humanoid robot using Reinforcement Learning
