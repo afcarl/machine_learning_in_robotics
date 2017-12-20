@@ -3,12 +3,12 @@ TUM Master Course "Machine Learning in Robotics" Assignment Solutions
 
 Course Website: https://www.lsr.ei.tum.de/en/teaching/vorlesungen/sommersemester/master/machine-learning-in-robotics/
 
-This Repository contains two Assignments each consisting of three seperate Exercises.
+This Repository contains two Assignments each consisting of three seperate Exercises. <br />
 Each Assignments consists of:
 - three Pdfs: General Instructions, Exercise Explanations, My own submitted Solutions
 - My Solution Matlab-Code for each Exercise
 - Several provided Datasets for each Erecise
-
+<br />
 
 Content Assignment 1:
 - Estimating velocity motion model of a mobile robot through linear regression
