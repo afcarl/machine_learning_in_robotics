@@ -1,7 +1,5 @@
 # Machine-Learning-in-Robotics
-TUM Master Course "Machine Learning in Robotics" Assignment Solutions
-
-Course Website: https://www.lsr.ei.tum.de/en/teaching/vorlesungen/sommersemester/master/machine-learning-in-robotics/
+TUM Master Course ["Machine Learning in Robotics"](https://www.lsr.ei.tum.de/en/teaching/vorlesungen/sommersemester/master/machine-learning-in-robotics/) Assignment Solutions
 
 This Repository contains two Assignments each consisting of three seperate Exercises. <br />
 Each Assignments consists of:
